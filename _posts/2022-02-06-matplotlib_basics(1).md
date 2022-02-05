@@ -107,7 +107,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_16_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_16_0.png)
     
 
 
@@ -128,7 +128,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_19_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_19_0.png)
     
 
 
@@ -148,7 +148,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_22_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_22_0.png)
     
 
 
@@ -172,7 +172,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_25_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_25_0.png)
     
 
 
@@ -189,7 +189,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_27_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_27_0.png)
     
 
 
@@ -209,7 +209,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_29_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_29_0.png)
     
 
 
@@ -244,7 +244,7 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_31_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_31_0.png)
     
 
 
@@ -274,6 +274,6 @@ plt.show()
 
 
     
-![png](u3_matplotlib_basics%281%29_files/u3_matplotlib_basics%281%29_34_0.png)
+![png](images/u3_matplotlib_basics(1)_files/u3_matplotlib_basics(1)_34_0.png)
     
 
